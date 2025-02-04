@@ -568,7 +568,7 @@ Public Class Form1
         If enemiesRemaining = 0 Then
             roundEnd()
 
-            'enemyImagecounter = 0
+            enemyImagecounter = 0
         End If
 
         'shop'

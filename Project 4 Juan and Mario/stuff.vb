@@ -18,7 +18,7 @@
     Public currentArrow As PictureBox
     Public enemyImagecounter = 0
     Public enemyAnimationCounter = 0
-    Public currentRound As Integer = 4
+    Public currentRound As Integer = 0
     Public enemyArray1 As New List(Of enemy)
     Public sword As String = "base sword"
     Public bow As String = "basebow"
